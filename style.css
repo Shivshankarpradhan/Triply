@@ -258,9 +258,7 @@ body {
             100% { transform: translateX(-50%); }
         }
 
-#map {
-  width: 100%;
-}
+
 .moodboard {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -341,12 +339,4 @@ body {
             color: #fff;
         }
      
-.card-values {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    margin-top: 2%;
-    border-radius: 2rem;
-    
-   
-}
+
